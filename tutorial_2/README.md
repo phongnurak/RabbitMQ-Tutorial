@@ -1,8 +1,8 @@
 # Totorial 2: Work Queues
 How to run
-1.  run receiver.js
+1.  run worker.js
     `node worker.js`
-2. run sender.js
+2. run new_task.js
 	`node new_task.js`
 
 - Message acknowledgment
